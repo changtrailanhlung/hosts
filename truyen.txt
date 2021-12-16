@@ -1,0 +1,23 @@
+# --- TruyenVN block ---
+0.0.0.0 ungtytruyen.com
+0.0.0.0 truyentr.org
+0.0.0.0 truyenfull.com
+0.0.0.0 mintruyen.com
+0.0.0.0 umetruyen.net
+0.0.0.0 truyenfull.com
+0.0.0.0 truyenfull.vn
+0.0.0.0 dtruyen.com
+0.0.0.0 webtruyen.com
+0.0.0.0 nettruyenpro.com
+0.0.0.0 truyentranh8.net
+0.0.0.0 zingtruyen.net
+0.0.0.0 nhattruyenvip.com
+0.0.0.0 nettruyenpro.com
+0.0.0.0 truyenvua.com
+0.0.0.0 lovetruyen.com
+0.0.0.0 truyen99.com
+0.0.0.0 truyenwiki1.com
+0.0.0.0 uptruyenvn.com
+0.0.0.0 nhanhtruyen.org
+0.0.0.0 vlogtruyen.net
+0.0.0.0 truyengihot.net
