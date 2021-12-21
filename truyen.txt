@@ -21,3 +21,4 @@
 0.0.0.0 nhanhtruyen.org
 0.0.0.0 vlogtruyen.net
 0.0.0.0 truyengihot.net
+0.0.0.0 ungtycomics.com
