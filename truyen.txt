@@ -23,3 +23,9 @@
 0.0.0.0 truyengihot.net
 0.0.0.0 ungtycomics.com
 0.0.0.0 sstruyen.com
+0.0.0.0 umetruyen.org
+0.0.0.0 cdnvn.truyenfull.vn
+0.0.0.0 thichtruyen.vn
+0.0.0.0 truyenhd1.com
+0.0.0.0 truyen88.net
+0.0.0.0 truyen88.pro
