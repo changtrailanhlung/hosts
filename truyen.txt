@@ -27,3 +27,4 @@
 0.0.0.0 truyen88.net
 0.0.0.0 truyen88.pro
 0.0.0.0 cdnvn.truyenfull.vn
+0.0.0.0 dichtruyen.org
