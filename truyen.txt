@@ -28,7 +28,7 @@
 0.0.0.0 truyen88.pro
 0.0.0.0 cdnvn.truyenfull.vn
 0.0.0.0 dichtruyen.org
-0.0.0.0 dichtruyen.net
 0.0.0.0 dichtruyenvip.com
+0.0.0.0 https://dichtruyenvip.com/
 0.0.0.0 dichtruyenhot.com
 0.0.0.0 https://dichtruyenhot.com/
